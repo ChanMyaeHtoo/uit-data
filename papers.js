@@ -38,16 +38,16 @@ module.exports = {
                   authors: ['Nan Haymarn Oo', 'Aung Htein Maw']
               },
               {
-                  title: '',
-                  authors: []
+                  title: 'An Analysis of Decision Tree Based Intrusion Detection System',
+                  authors: ['Yi Yi Aung', 'Myat Myat Min']
               },
               {
-                  title: '',
-                  authors: []
+                  title: 'Delay Controlled Elephant Flow Rerouting in Software Defined Network',
+                  authors: ['Hnin Thiri Zaw', 'Aung Htein Maw']
               },
               {
-                  title: '',
-                  authors: []
+                  title: 'Bandwidth Allocation Scheme using Segment Routing on Software-Defined Network',
+                  authors: ['Ohmmar Min Mon', 'Myat Thida Mon']
               }
           ]
         },
@@ -55,20 +55,20 @@ module.exports = {
           topic: 'Data Science',
           papers: [
             {
-                title: '',
-                authors: []
+                title: 'Uniformly Integrated Database Approach for Heterogenous Databases',
+                authors: ['Hlaing Phyu Phyu Mon',' Thin Thin San', 'Zinmar Naing', 'Thandar Swe']
             },
             {
-                title: '',
-                authors: []
+                title: 'Analysis of Historical Census Household data with Similarity Threshold Method',
+                authors: ['Khin Su Mon Myint', 'Thet Thet Zin', 'Kyaw May Oo']
             },
             {
-                title: '',
-                authors: []
+                title: 'Multidimensional Analysis for Census Data by Applying Star Schema Model',
+                authors: ['Myint Myint Thein', 'Myint Myint Lwin',' Aye Chan Mon',' May Thu Aung']
             },
             {
-                title: '',
-                authors: []
+                title: 'Data Compression Strategy for Reference-Free Sequencing FASTQ Data',
+                authors: ['Hsu Mon Lei Aung', 'Swe Zin Hlaing']
             }
           ]
         },
@@ -76,8 +76,8 @@ module.exports = {
           topic: 'Natural Language Processing',
           papers: [
             {
-                title: '',
-                authors: []
+                title: 'Domain-specific Sentiment Dictionary Construction for Sentiment Classification',
+                authors: ['Aye Aye Ma','Nyein Thwet Thwet Aung', 'Su Su Htay']
             },
             {
                 title: '',
