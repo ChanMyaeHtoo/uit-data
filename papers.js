@@ -34,8 +34,8 @@ module.exports = {
           topic: 'Networking and Network Security',
           papers: [
               {
-                  title: '',
-                  authors: []
+                  title: 'Stateful Firewall Application on Software Defined Networking',
+                  authors: ['Nan Haymarn Oo', 'Aung Htein Maw']
               },
               {
                   title: '',
